@@ -1,1 +1,7 @@
 streamlit
+pytz 
+forex-python
+psycopg2
+yfinance
+requests
+beautifulsoup4
